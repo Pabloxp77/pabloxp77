@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Pabloxp77/pabloxp77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou o Pablo👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando com redes de computadores
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: pablomz8906@gmail.com
+- ⚡ Fun fact: Foco em aprender desenvolvimento mobile
+
+<div>
+  <a href="https://github.com/pabloxp77">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pabloxp77&show_icons=true&theme=dark&include_all_commits=true&count_private=true
+</div>
