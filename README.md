@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/pabloxp77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloxp77&show_icons=true&theme=dark&include_all_commits=true&count_private=true/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloxp77&show_icons=true&theme=radical&include_alla-commits=true&count_private=true"/>
+  <img height="180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxp77&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
