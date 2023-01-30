@@ -7,9 +7,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pablomz8906@gmail.com
 - ⚡ Fun fact: Foco em aprender desenvolvimento mobile
 
+##
+
 <div>
   <a href="https://github.com/pabloxp77">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloxp77&show_icons=true&theme=radical&include_alla-commits=true&count_private=true"/>
-  <img height="180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxp77&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxp77&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
