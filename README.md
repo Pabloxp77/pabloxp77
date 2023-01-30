@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Foco em aprender desenvolvimento mobile
 
 <div>
-  <a href="https://github.com/Pabloxp77">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pabloxp77&show_icons=true&theme=dark&include_all_commits=true&count_private=true/>
+  <a href="https://github.com/pabloxp77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloxp77&show_icons=true&theme=dark&include_all_commits=true&count_private=true/>
   
 </div>
