@@ -1,11 +1,11 @@
-### Olá, eu sou o Pablo👋
+### Hello, i'm Pablo👋
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhando com redes de computadores
+- 🔭 I'm currently working with computer networks
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pablomz8906@gmail.com
-- ⚡ Fun fact: Foco em aprender desenvolvimento mobile
+- ⚡ Fun fact: focus on learning mobile development
 
 ##
 
