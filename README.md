@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <h2> texto aqui </h2>
+  <h2>texto aqui</h2> 
 </div>
 
 <div>
